@@ -3,5 +3,5 @@
  Executable file for Food Waste Management System interface.
 
 ## Login Details:
-** User: ** siauser1
-** Password: ** password
+**User:** siauser1
+**Password:** password
