@@ -7,7 +7,7 @@
 **Password:** password
 
 ## Usage instructions:
-###To scan for leftovers:
+### To scan for leftovers:
 1. Click "Create New Flight" in Flight Manager. Enter Departure & Arrival Airport (e.g. SIN/HKG) and Departure Date/Time (e.g. 20/7/2018 07:30:00 AM). As sample data provided in flight schedule APIs does not include the flights used in passenger and meal uplift plan APIs, please also enter Arrival Date/Time (e.g. 20/8/2018 11:20:00 AM) and Flight Number (e.g. 890).
 
 Press "Auto-Fill" to get passenger data, and click "OK". The flight and any corresponding meals will be added to the database.
@@ -18,7 +18,7 @@ Press "Auto-Fill" to get passenger data, and click "OK". The flight and any corr
 
 4. Once done, press "Q" on the keyboard. The system will automatically record the leftover units in the database and compute the wastage statistics.
 
-###To view wastage statistics:
+### To view wastage statistics:
 1. Under flight manager, the aggregated wastage statistics are shown in the rightmost column of the table.
 
 2. To drill down into the meals served on a particular flight, select the flight in the flight manager, and click "View Meals Served on Selected Flight".
